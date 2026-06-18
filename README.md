@@ -1,135 +1,62 @@
-# Hi, I'm Mansi Sonani 
-### AI Automation Developer & Prompt Engineer | Multi-Agent Systems | LLM Engineering
+# Hi, I'm Mansi Sonani 👋
 
-> 🎓 **BCA Graduate (April 2025)** | Building production-grade AI systems that replace manual workflows with autonomous intelligent agents.  
-> 💼 **Open to Full-Time Opportunities** — AI Automation • Multi-Agent Systems • LLM Engineering • Python Backend
+### 🤖 AI Automation Developer & Prompt Engineer
+**Multi-Agent Systems • LangGraph • n8n • LLM Engineering**
 
-📍 Gujarat, India • 📧 sonanimansi05@gmail.com 
-
----
-
-## 🚀 What I Build
-
-I specialize in **autonomous multi-agent architectures**, **n8n workflow automations**, and **LLM-powered backend systems**. Over the last year, I've shipped **6 production AI systems** — from a 5-agent B2B integration platform to full-stack ERP solutions — focused on replacing manual engineering pipelines with zero-cost intelligent swarms.
+> 🎓 BCA Graduate (April 2025) • 📍 Gujarat, India  
+> 💼 **Open to Full-Time Roles** — AI Automation • LLM Engineering • Python Backend  
+> 📧 sonanimansi05@gmail.com
 
 ---
 
-## 🛠️ Technical Stack
-
-![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-LangGraph%20%7C%20LangChain-blue?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-Groq%20%7C%20Llama_3.3_70B%20%7C%20Gemini_API-orange?style=flat-square)
-![Workflows](https://img.shields.io/badge/Workflows-n8n%20%7C%20Webhooks%20%7C%20REST_APIs-red?style=flat-square)
-
-![Backend](https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python%20%7C%20Async_Python-green?style=flat-square)
-![Data](https://img.shields.io/badge/Data-Supabase%20%7C%20PostgreSQL%20%7C%20SQLite%20%7C%20Airtable-blueviolet?style=flat-square)
-![Frontend](https://img.shields.io/badge/Frontend-React_19%20%7C%20TypeScript%20%7C%20Tailwind_v4%20%7C%20Vite_7-cyan?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Azure_DevOps%20%7C%20Vercel%20%7C%20Render-lightgrey?style=flat-square)
+### 🚀 What I Do
+I build **autonomous multi-agent systems** that replace manual workflows. Shipped **6 production AI projects** in the last year — from a 5-agent B2B integration platform to full-stack ERPs.
 
 ---
 
-## 🏗️ Featured Projects
+### 🏆 Featured Projects
 
-### 🤖 Synapse-AI — Autonomous B2B API Integration Platform
-**[🔗 Live Demo](https://synapse-ai-one-gamma.vercel.app)** • **[💻 GitHub](https://github.com/mansisonani07/synapse-ai)**
+| Project | Stack | Live |
+|---------|-------|------|
+| 🤖 **[Synapse-AI](https://github.com/mansisonani07/synapse-ai)** — 5-agent B2B API platform (3 weeks → 25 sec) | LangGraph • Groq • FastAPI • React 19 | [Demo](https://synapse-ai-one-gamma.vercel.app) |
+| 🏫 **[CampusIQ](https://github.com/mansisonani07/CampusIQ)** — Full-stack Student ERP (22 modules, 4 portals) | React 19 • Supabase • Tailwind v4 | [Demo](https://campusiq-erp-system.vercel.app) |
+| 📊 **[Immigration Lead Gen](https://github.com/mansisonani07/immigration-lead-gen-system)** — AI scrapes Reddit/Quora (60+ qualified leads) | n8n • Groq • Google Sheets | — |
+| 📈 **[Lead Management System](https://github.com/mansisonani07/lead-management-system)** — AI lead classifier pipeline | FastAPI • Groq • Next.js • SQLite | — |
+| 📱 **Instagram AI Lead Gen** — 100+ daily leads, 80% manual work cut | n8n • Apify • Groq | — |
+| 🦷 **Clinic AI Communication** — WhatsApp patient reminders | HTML5 • JS • localStorage | — |
 
-- Engineered a **5-agent autonomous swarm** (Orchestrator → DocReader → CodeWriter → Tester → Validator) using **LangGraph** + **Groq Llama 3.3 70B**
-- **Reduced B2B API integration time from 3 weeks → 25 seconds** and cost from **$8,640 → $0** using free-tier orchestration
-- Tested with **20+ enterprise APIs** including Shopify, Stripe, Slack, Salesforce, HubSpot
-- **Stack:** React 19, TypeScript, Vite, FastAPI, LangGraph, Groq API, Vercel, Render
-
----
-
-### 🏫 CampusIQ — Full-Stack Student ERP Platform
-**[🔗 Live Demo](https://campusiq-erp-system.vercel.app)** • **[💻 GitHub](https://github.com/mansisonani07/CampusIQ)**
-
-- Built **22+ modules** across **4 role-based portals** (Admin, Faculty, Student, Parent) with **19-table PostgreSQL schema** secured by Supabase Row-Level Security
-- Implemented **20+ Vercel serverless API endpoints**, JWT + OTP authentication, PDF receipt generation, embedded LMS, and Iris AI Assistant
-- **Lighthouse: 94/100 performance • 97/100 accessibility** with dual-theme responsive UI
-- **Stack:** React 19, TypeScript, Supabase, Tailwind v4, Vite 7, Vercel
+👉 **[See all repositories →](https://github.com/mansisonani07?tab=repositories)**
 
 ---
 
-### 📊 Immigration Lead Generation System
-**[💻 GitHub](https://github.com/mansisonani07?tab=repositories)**
+### 🛠️ Tech Stack
 
-- AI-powered system monitoring **Reddit & Quora** for immigration leads, qualified via **Groq Llama 3.3 70B**
-- **4-dimensional lead scoring:** intent (HOT/WARM/COLD), visa type, urgency, revenue estimation ($800–$5,000/lead)
-- Delivered **60+ qualified leads** to Google Sheets with automated Gmail HOT alerts
-- **Stack:** n8n, Groq AI, Google Sheets API, Gmail API
-
----
-
-### 📈 Lead Management System
-**[💻 GitHub](https://github.com/mansisonani07?tab=repositories)**
-
-- Full-stack AI lead classifier pipeline: **n8n → FastAPI → SQLite → Next.js dashboard**
-- Built **4 REST API endpoints** with auto-classification (Hot/Warm/Cold) using Groq Llama 3.1 8B
-- Integrated Gmail HOT lead notifications with strategic zero-cost free-tier architecture
-- **Stack:** FastAPI, Groq AI, SQLite, Next.js, n8n
+**AI/LLM:** LangGraph • LangChain • Groq (Llama 3.3 70B) • Gemini API • Prompt Engineering  
+**Automation:** n8n • Webhooks • REST APIs • Multi-Agent Orchestration  
+**Backend:** Python • FastAPI • Async Python • JSON Schema  
+**Frontend:** React 19 • TypeScript • Tailwind v4 • Vite 7 • Framer Motion  
+**Data:** Supabase • PostgreSQL • SQLite • Airtable • Google Sheets API  
+**DevOps:** Git • GitHub Actions • Vercel • Render • Azure DevOps
 
 ---
 
-### 📱 Instagram AI Lead Generation Automation
-**[💻 GitHub](https://github.com/mansisonani07?tab=repositories)**
-
-- Fully automated daily Instagram workflow — discovers AI agency leads via **hashtag scraping (Apify)** and generates personalized DMs via Groq AI
-- **Processes 100+ qualified leads daily** with anti-spam delays and follower thresholds (1K–50K)
-- **80% reduction in manual lead generation work** — saves 6+ hours/day
-- **Stack:** n8n, Apify, Groq API, Google Sheets API, JavaScript
-
----
-
-### 🦷 Clinic AI Patient Communication (Frontend Prototype)
-**[💻 GitHub](https://github.com/mansisonani07?tab=repositories)**
-
-- Responsive frontend demo for **AI-driven dental clinic patient reminders** via WhatsApp
-- Rule-based AI message generation personalized per patient medical condition
-- One-click WhatsApp delivery via URL scheme with localStorage persistence
-- **Stack:** HTML5, CSS3, JavaScript, WhatsApp URL Integration
-
----
-
-## 📂 Explore All Production Systems
-👉 **[View Complete Repository Index](https://github.com/mansisonani07?tab=repositories)**
-
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansisonani07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansisonani07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansisonani07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansisonani07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
 ---
 
-## 🎓 Education & Certifications
-
-**Bachelor of Computer Applications (BCA)** — First Class (62.37%)  
-*Swami Sahajanand College of Computer Science, Bhavnagar, Gujarat* | Sept 2022 – Apr 2025
-
-**Certifications:**
-- 🏅 Microsoft Azure DevOps Introduction — Microsoft Learn (2025)
-- 🏅 Microsoft AI Skills Fest 2025 — 50-Day Coding Challenge Completion
+### 🎓 Education & Certifications
+- **BCA** — Swami Sahajanand College, Bhavnagar (First Class, 2025)
+- 🏅 Microsoft Azure DevOps Introduction (2025)
+- 🏅 Microsoft AI Skills Fest — 50-Day Coding Challenge
 - 🏅 Google Cloud — Introduction to Generative AI
 
 ---
 
-## 💼 Currently Seeking
-
-🎯 **Full-Time Roles** in:
-- AI Automation Developer
-- Multi-Agent Systems Engineer  
-- LLM / Prompt Engineer
-- Python Backend Developer (AI-focused)
-
-✅ Available immediately • 🌍 Open to Remote / Hybrid / Relocation
-
----
-
-## 🔗 Let's Connect
-
-- 💼 **LinkedIn:** [linkedin.com/in/mansi-sonani-0993513a6](https://linkedin.com/in/mansi-sonani-0993513a6)
-- 📧 **Email:** sonanimansi05@gmail.com
-- 🐙 **GitHub:** [github.com/mansisonani07](https://github.com/mansisonani07)
-
-> *"Replacing manual engineering pipelines with zero-cost intelligent swarms."*
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mansi-sonani-0993513a6)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:sonanimansi05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat&logo=vercel)](https://github.com/mansisonani07/mansi-sonani-portfolio)
