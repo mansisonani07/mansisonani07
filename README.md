@@ -1,4 +1,4 @@
-# Hi, I'm Mansi Sonani 👋
+# Hi, I'm Mansi Sonani 
 ### AI Automation Developer & Prompt Engineer | Multi-Agent Systems | LLM Engineering
 
 > 🎓 **BCA Graduate (April 2025)** | Building production-grade AI systems that replace manual workflows with autonomous intelligent agents.  
