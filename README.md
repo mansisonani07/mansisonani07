@@ -1,4 +1,4 @@
-# Hi, I'm Mansi Sonani 👋
+# Hi, I'm Mansi Sonani 
 
 ### 🤖 AI Automation Developer & Prompt Engineer
 **Multi-Agent Systems • LangGraph • n8n • LLM Engineering**
