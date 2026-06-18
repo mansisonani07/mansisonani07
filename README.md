@@ -7,6 +7,8 @@
 > 💼 **Open to Full-Time Roles** — AI Automation • LLM Engineering • Python Backend  
 > 📧 sonanimansi05@gmail.com
 
+🌐 **[Visit My Live Portfolio →](https://mansi-sonani-portfolio.vercel.app)**
+
 ---
 
 ### 🚀 What I Do
@@ -59,4 +61,4 @@ I build **autonomous multi-agent systems** that replace manual workflows. Shippe
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mansi-sonani-0993513a6)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:sonanimansi05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat&logo=vercel)](https://github.com/mansisonani07/mansi-sonani-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat&logo=vercel)](https://mansi-sonani-portfolio.vercel.app)
